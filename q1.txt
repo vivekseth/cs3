@@ -1,8 +1,23 @@
 Part A
-- subpart 1
+- 1
 server-216-137-39-32.stl2.r.cloudfront.net
 ord08s11-in-f2.1e100.net.https
 a23-3-96-129.deploy.static.akamaitechnologies.com
 
-- subpart 2
+- 2
+adventures in Stochastic Processes
+madison map
+chicago metro
+
+Part B
+- 1
+username: shiningmoon
+password: public
+- 2, 3, 4
+WILL DO LATER
+- 5
+dragon.zip
+ARP.java
+L2Switch.java
+phase1.html
 
