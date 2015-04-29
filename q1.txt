@@ -14,7 +14,9 @@ Part B
 username: shiningmoon
 password: public
 - 2, 3, 4
-WILL DO LATER
+
+** WILL DO LATER ** 
+
 - 5
 dragon.zip
 ARP.java
@@ -45,5 +47,40 @@ START
 10.131.180.1
 END
 
-
-
+Part D
+- 1
+username: cs155@dummymail.com
+password: whitehat
+- 2
+5 messages in mailbox
+- 3
+1. {
+	from: joe <cs155@dummymail.com>
+	to: cs155@dummymail.com
+	subject: foobar
+	date: Fri, 23 Apr 2010 08:20:55 -0700
+}
+2. {
+	from: joe <cs155@dummymail.com>
+	to: cs155@dummymail.com
+	subject: can you see this subject?
+	date: Fri, 23 Apr 2010 08:23:26 -0700
+}
+3. {
+	From: hariny <harinym@stanford.edu>
+	To: cs155@dummymail.com
+	Subject: geology rocks!
+	Date: Fri, 23 Apr 2010 08:22:28 -0700
+}
+4. {
+	From: hariny <harinym@stanford.edu>
+	To: cs155@dummymail.com
+	Subject: test message
+	Date: Fri, 23 Apr 2010 10:25:00 -0700
+}
+5. {
+	From: hariny <harinym@stanford.edu>
+	To: cs155@dummymail.com
+	Subject: wassup
+	Date: Fri, 23 Apr 2010 08:21:50 -0700
+}
