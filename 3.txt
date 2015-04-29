@@ -1,0 +1,87 @@
+04:12:21.982724 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33435: UDP, length 24
+04:12:21.986387 IP 192.168.0.1 > 192.168.0.100: ICMP time exceeded in-transit, length 60
+04:12:21.987163 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33436: UDP, length 24
+04:12:21.987906 IP 192.168.0.1 > 192.168.0.100: ICMP time exceeded in-transit, length 60
+04:12:21.988033 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33437: UDP, length 24
+04:12:21.988726 IP 192.168.0.1 > 192.168.0.100: ICMP time exceeded in-transit, length 60
+04:12:21.988848 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33438: UDP, length 24
+04:12:21.995775 IP 10.131.180.1 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:21.996497 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33439: UDP, length 24
+04:12:22.003107 IP 10.131.180.1 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.003342 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33440: UDP, length 24
+04:12:22.009769 IP 10.131.180.1 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.010030 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33441: UDP, length 24
+04:12:22.016973 IP acr11mdsnwi-tge-0-2-0-1.mdsn.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.017416 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33442: UDP, length 24
+04:12:22.024190 IP acr11mdsnwi-tge-0-2-0-1.mdsn.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.024344 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33443: UDP, length 24
+04:12:22.030085 IP acr11mdsnwi-tge-0-2-0-1.mdsn.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.030340 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33444: UDP, length 24
+04:12:22.044661 IP dtr02ftbgwi-tge-0-6-0-4.ftbg.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.045254 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33445: UDP, length 24
+04:12:22.056580 IP dtr02ftbgwi-tge-0-6-0-4.ftbg.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.056742 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33446: UDP, length 24
+04:12:22.068477 IP dtr02ftbgwi-tge-0-6-0-4.ftbg.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.068736 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33447: UDP, length 24
+04:12:22.080997 IP crr01ftbgwi-bue-2.ftbg.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.081373 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33448: UDP, length 24
+04:12:22.093596 IP crr01ftbgwi-bue-2.ftbg.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.093836 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33449: UDP, length 24
+04:12:22.105034 IP crr01ftbgwi-bue-2.ftbg.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.105179 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33450: UDP, length 24
+04:12:22.129717 IP crr01euclwi-bue-1.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.130311 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33451: UDP, length 24
+04:12:22.153995 IP crr01euclwi-bue-1.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.154150 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33452: UDP, length 24
+04:12:22.180373 IP crr01euclwi-bue-1.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.180639 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33453: UDP, length 24
+04:12:22.200504 IP bbr01euclwi-bue-4.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.201028 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33454: UDP, length 24
+04:12:22.216519 IP bbr01euclwi-bue-4.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.216782 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33455: UDP, length 24
+04:12:22.232753 IP bbr01euclwi-bue-4.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.233023 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33456: UDP, length 24
+04:12:22.252384 IP bbr02euclwi-bue-5.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.252828 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33457: UDP, length 24
+04:12:22.268006 IP bbr02euclwi-bue-5.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.268265 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33458: UDP, length 24
+04:12:22.284325 IP bbr02euclwi-bue-5.eucl.wi.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.284596 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33459: UDP, length 24
+04:12:22.306509 IP bbr01chcgil-bue-1.chcg.il.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.307100 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33460: UDP, length 24
+04:12:22.330461 IP bbr01chcgil-bue-1.chcg.il.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.330724 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33461: UDP, length 24
+04:12:22.354416 IP bbr01chcgil-bue-1.chcg.il.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.354675 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33462: UDP, length 24
+04:12:22.377241 IP prr01chcgil-bue-2.chcg.il.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.377828 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33463: UDP, length 24
+04:12:22.400355 IP prr01chcgil-bue-2.chcg.il.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.400579 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33464: UDP, length 24
+04:12:22.423936 IP prr01chcgil-bue-2.chcg.il.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 76
+04:12:22.424199 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33465: UDP, length 24
+04:12:22.447316 IP 96-34-152-30.static.unas.mo.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.447607 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33466: UDP, length 24
+04:12:22.468717 IP 96-34-152-30.static.unas.mo.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.468808 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33467: UDP, length 24
+04:12:22.490988 IP 96-34-152-30.static.unas.mo.charter.com > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.491113 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33468: UDP, length 24
+04:12:22.512803 IP 209.85.254.120 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.513395 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33469: UDP, length 24
+04:12:22.534718 IP 209.85.254.120 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.534957 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33470: UDP, length 24
+04:12:22.561546 IP 209.85.254.120 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.561814 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33471: UDP, length 24
+04:12:22.583759 IP 209.85.250.28 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.584391 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33472: UDP, length 24
+04:12:22.605753 IP 209.85.250.28 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.606015 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33473: UDP, length 24
+04:12:22.628562 IP 209.85.250.28 > 192.168.0.100: ICMP time exceeded in-transit, length 36
+04:12:22.628816 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33474: UDP, length 24
+04:12:22.650444 IP ord08s06-in-f14.1e100.net > 192.168.0.100: ICMP ord08s06-in-f14.1e100.net udp port 33474 unreachable, length 60
+04:12:22.651037 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33475: UDP, length 24
+04:12:22.672457 IP ord08s06-in-f14.1e100.net > 192.168.0.100: ICMP ord08s06-in-f14.1e100.net udp port 33475 unreachable, length 60
+04:12:22.672626 IP 192.168.0.100.37782 > ord08s06-in-f14.1e100.net.33476: UDP, length 24
+04:12:22.692514 IP ord08s06-in-f14.1e100.net > 192.168.0.100: ICMP ord08s06-in-f14.1e100.net udp port 33476 unreachable, length 60
+04:12:33.878675 IP 192.168.0.104.mdns > 224.0.0.251.mdns: 0*- [0q] 1/0/0 TXT "model=N51AP" (80)
+04:12:33.878966 IP6 fe80::c2f:f80d:116b:e77.mdns > ff02::fb.mdns: 0*- [0q] 1/0/0 TXT "model=N51AP" (80)
+04:12:34.799111 IP 192.168.0.104.mdns > 224.0.0.251.mdns: 0*- [0q] 1/0/0 TXT "model=N51AP" (80)
