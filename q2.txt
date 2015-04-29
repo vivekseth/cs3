@@ -1,0 +1,6 @@
+a. 
+buffer overflow with reportBuf
+currupt memory and stop scanning
+fill up harddrive space
+if log.txt has executable permission, write malicious executable using packets
+can easily spoof the to and from IP addresses
