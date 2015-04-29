@@ -1,0 +1,18 @@
+var links = document.getElementById("rso").getElementsByTagName('a');
+for (var i=0; i<links.length; i++) {
+	var l = links[i];
+	var query = (new URL(l.href)).search.split('&');
+	console.log(query);
+	for (var j=0; j<query.length; j++) {
+		var u = query[j];
+		if (u.search("url=") == 0){
+			var t = u.replace("url=", "");
+			var y = decodeURIComponent(t);
+			console.log(y);
+			console.log(l.href);
+			l.href = "http://hidyourass.appspot.com/" + y.replace(/https?:\/\//, "")
+			console.log(l.href);
+			console.log();
+		}
+	}
+}

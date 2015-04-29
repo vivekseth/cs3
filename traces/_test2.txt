@@ -1,0 +1,210 @@
+110.75.71.8.http: 
+123.125.114.101.http: 
+123.125.114.64.http: 
+123.125.115.95.http: 
+131.253.14.48.http: 
+131.253.40.84.http: 
+162-148.amazon.com.http: 
+162-173.amazon.com.http: 
+17.149.32.25.5223: 
+17.172.116.48.https: 
+17.172.116.8.https: 
+180.76.2.35.http: 
+180.76.3.151.http: 
+192.168.0.1.domain: 10026+ A? a4.bing.com. (29)
+192.168.0.1.domain: 10047+ A? ak.dynamic.t0.tiles.virtualearth.net. (54)
+192.168.0.1.domain: 10280+ A? g-ecx.images-amazon.com. (41)
+192.168.0.1.domain: 10525+ A? 6pm.zappos.com.akadns.net. (43)
+192.168.0.1.domain: 13819+ A? ak.t2.tiles.virtualearth.net. (46)
+192.168.0.1.domain: 13957+ A? ak.dynamic.t1.tiles.virtualearth.net. (54)
+192.168.0.1.domain: 14822+ A? accounts.l.google.com. (39)
+192.168.0.1.domain: 1569+ A? services.amazon.com. (37)
+192.168.0.1.domain: 15754+ A? www.bing.com. (30)
+192.168.0.1.domain: 16126+ A? ak.dynamic.t2.tiles.virtualearth.net. (54)
+192.168.0.1.domain: 16169+ A? bookdepository.com. (36)
+192.168.0.1.domain: 16299+ A? t3.baidu.com. (30)
+192.168.0.1.domain: 16938+ A? www.amazon.com. (32)
+192.168.0.1.domain: 17140+ A? www.metrochicago.com. (38)
+192.168.0.1.domain: 173+ A? api.share.n.shifen.com. (40)
+192.168.0.1.domain: 17453+ A? mc1.maps.live.com. (35)
+192.168.0.1.domain: 17493+ A? t.co. (22)
+192.168.0.1.domain: 17499+ A? static.ak.facebook.com.edgesuite.net. (54)
+192.168.0.1.domain: 17541+ A? www.thechicagometro.com. (41)
+192.168.0.1.domain: 18596+ A? advertising.microsoft.com.nsatc.net. (53)
+192.168.0.1.domain: 18661+ A? www.map.wisc.edu. (34)
+192.168.0.1.domain: 18750+ A? ad.adlegend.com. (33)
+192.168.0.1.domain: 19785+ A? www.maplandia.com. (35)
+192.168.0.1.domain: 20053+ A? www.6pm.com. (29)
+192.168.0.1.domain: 2070+ A? news.baidu.com. (32)
+192.168.0.1.domain: 20804+ A? 1839551.r.msn.com. (35)
+192.168.0.1.domain: 20829+ A? suggestion.a.shifen.com. (41)
+192.168.0.1.domain: 20936+ A? a134.lm.akamai.net. (36)
+192.168.0.1.domain: 21263+ A? www.chicagometroaeyc.org. (42)
+192.168.0.1.domain: 22268+ A? kdp.amazon.com. (32)
+192.168.0.1.domain: 22542+ A? www.baidu.com. (31)
+192.168.0.1.domain: 23310+ A? www.yelp.com. (30)
+192.168.0.1.domain: 23510+ A? www.afterschool.com. (37)
+192.168.0.1.domain: 2362+ A? a9.com. (24)
+192.168.0.1.domain: 24241+ A? ak.dynamic.t3.tiles.virtualearth.net. (54)
+192.168.0.1.domain: 24988+ A? aladdin.a.shifen.com. (38)
+192.168.0.1.domain: 25943+ A? www.audible.com. (33)
+192.168.0.1.domain: 26120+ A? top.baidu.com. (31)
+192.168.0.1.domain: 26316+ A? www.dpreview.com. (34)
+192.168.0.1.domain: 26384+ A? www.amazon.com.br. (35)
+192.168.0.1.domain: 26524+ A? www.bing.com. (30)
+192.168.0.1.domain: 27076+ A? z-ecx.images-amazon.com. (41)
+192.168.0.1.domain: 27291+ A? www.tvmao.com. (31)
+192.168.0.1.domain: 28589+ A? cache.a.shifen.com. (36)
+192.168.0.1.domain: 28734+ A? chicago.metromix.com. (38)
+192.168.0.1.domain: 29218+ A? e.baidu.com. (29)
+192.168.0.1.domain: 29787+ A? www.amazonsupply.com. (38)
+192.168.0.1.domain: 30107+ A? www.amazon.co.uk. (34)
+192.168.0.1.domain: 30456+ A? twitter.com. (29)
+192.168.0.1.domain: 30947+ A? www.bookworm.com. (34)
+192.168.0.1.domain: 31167+ A? www.tripadvisor.com. (37)
+192.168.0.1.domain: 3181+ A? ts1.mm.bing.net. (33)
+192.168.0.1.domain: 32837+ A? api.ting.n.shifen.com. (39)
+192.168.0.1.domain: 33921+ A? www.alexa.com. (31)
+192.168.0.1.domain: 3437+ A? www.yoyo.com. (30)
+192.168.0.1.domain: 34983+ A? www.look.com. (30)
+192.168.0.1.domain: 35063+ A? t12.baidu.com. (31)
+192.168.0.1.domain: 35832+ A? amazonlocal.com. (33)
+192.168.0.1.domain: 3605+ A? www.transitchicago.com. (40)
+192.168.0.1.domain: 36083+ A? s.a.shifen.com. (32)
+192.168.0.1.domain: 36110+ A? www.cityofmadison.com. (39)
+192.168.0.1.domain: 36183+ A? www.amazon.com.mx. (35)
+192.168.0.1.domain: 36285+ A? www.eastdane.com. (34)
+192.168.0.1.domain: 37472+ A? dev.virtualearth.net. (38)
+192.168.0.1.domain: 38036+ A? fresh.amazon.com. (34)
+192.168.0.1.domain: 38227+ A? r.msn.com.nsatc.net. (37)
+192.168.0.1.domain: 38784+ A? b1.bdstatic.com. (33)
+192.168.0.1.domain: 38959+ A? www.soap.com. (30)
+192.168.0.1.domain: 3956+ A? post.n.shifen.com. (35)
+192.168.0.1.domain: 39659+ A? www.amazon.ca. (31)
+192.168.0.1.domain: 40194+ A? onlinehelp.microsoft.com. (42)
+192.168.0.1.domain: 41235+ A? ir.baidu.com. (30)
+192.168.0.1.domain: 41296+ A? ecn.api.tiles.virtualearth.net. (48)
+192.168.0.1.domain: 42187+ A? ocsp.verisign.com. (35)
+192.168.0.1.domain: 4263+ A? www.amazon.de. (31)
+192.168.0.1.domain: 42896+ A? fls-na.amazon.com. (35)
+192.168.0.1.domain: 438+ A? www.shopbop.com. (33)
+192.168.0.1.domain: 43800+ A? star.c10r.facebook.com. (40)
+192.168.0.1.domain: 43816+ A? metro30.metrochicago.com. (42)
+192.168.0.1.domain: 43982+ A? www.msn.com. (29)
+192.168.0.1.domain: 4414+ A? www.amazon.es. (31)
+192.168.0.1.domain: 44509+ A? www.go.microsoft.akadns.net. (45)
+192.168.0.1.domain: 44527+ A? www.vine.com. (30)
+192.168.0.1.domain: 45105+ A? www.zappos.com.akadns.net. (43)
+192.168.0.1.domain: 45247+ A? e6722.dsca.akamaiedge.net. (43)
+192.168.0.1.domain: 45619+ A? www.bing.com. (30)
+192.168.0.1.domain: 45856+ A? as.n.shifen.com. (33)
+192.168.0.1.domain: 46646+ A? pagead2.googlesyndication.com. (47)
+192.168.0.1.domain: 46786+ A? www.amazon.fr. (31)
+192.168.0.1.domain: 47403+ A? www.mapquest.com. (34)
+192.168.0.1.domain: 48171+ A? wwwbaidu.jomodns.com. (38)
+192.168.0.1.domain: 48794+ A? www.amazon.in. (31)
+192.168.0.1.domain: 48803+ A? video.n.shifen.com. (36)
+192.168.0.1.domain: 49023+ A? www.diapers.com. (33)
+192.168.0.1.domain: 49179+ A? www.casa.com. (30)
+192.168.0.1.domain: 4987+ A? movie.douban.com. (34)
+192.168.0.1.domain: 50186+ A? map.n.shifen.com. (34)
+192.168.0.1.domain: 50885+ A? www.wag.com. (29)
+192.168.0.1.domain: 51080+ A? www.beautybar.com. (35)
+192.168.0.1.domain: 51259+ A? s0.2mdn.net. (29)
+192.168.0.1.domain: 51683+ A? cloudfront-labs.amazonaws.com. (47)
+192.168.0.1.domain: 52189+ A? c.baidu.com. (29)
+192.168.0.1.domain: 52281+ A? www.fabric.com. (32)
+192.168.0.1.domain: 52334+ A? www.amazon.co.jp. (34)
+192.168.0.1.domain: 52848+ A? zhidao.baidu.com. (34)
+192.168.0.1.domain: 53269+ A? us.dd.imdb.com. (32)
+192.168.0.1.domain: 53893+ A? www.amazon.ca. (31)
+192.168.0.1.domain: 54208+ A? aax-us-east.amazon-adsystem.com. (49)
+192.168.0.1.domain: 54362+ A? image.baidu.com. (33)
+192.168.0.1.domain: 54597+ A? t1.baidu.com. (30)
+192.168.0.1.domain: 55038+ A? wikipedia-lb.wikimedia.org. (44)
+192.168.0.1.domain: 5525+ A? amazon.jobs. (29)
+192.168.0.1.domain: 55261+ A? shadu.n.shifen.com. (36)
+192.168.0.1.domain: 55474+ A? affiliate-program.amazon.com. (46)
+192.168.0.1.domain: 55626+ A? rd.a9.com. (27)
+192.168.0.1.domain: 55924+ A? s.amazon-adsystem.com. (39)
+192.168.0.1.domain: 57089+ A? www.junglee.com. (33)
+192.168.0.1.domain: 57262+ A? www.abebooks.com. (34)
+192.168.0.1.domain: 57515+ A? travel.yahoo.com. (34)
+192.168.0.1.domain: 57538+ A? www.hao123.com. (32)
+192.168.0.1.domain: 57772+ A? www.nipc.org. (30)
+192.168.0.1.domain: 58319+ A? metrarail.com. (31)
+192.168.0.1.domain: 58352+ A? 994175.r.msn.com. (34)
+192.168.0.1.domain: 58468+ A? passport.baidu.com. (36)
+192.168.0.1.domain: 59705+ A? baike.baidu.com. (33)
+192.168.0.1.domain: 59769+ A? aws.amazon.com. (32)
+192.168.0.1.domain: 60172+ A? ecx.images-amazon.com. (39)
+192.168.0.1.domain: 60824+ A? www.myhabit.com. (33)
+192.168.0.1.domain: 60977+ A? www-google-analytics.l.google.com. (51)
+192.168.0.1.domain: 61106+ A? dispatch.kahuna.glbdns2.microsoft.com. (55)
+192.168.0.1.domain: 61624+ A? pbs.twimg.com. (31)
+192.168.0.1.domain: 62548+ A? www.amazon.com.au. (35)
+192.168.0.1.domain: 62996+ A? www.amazon.it. (31)
+192.168.0.1.domain: 63229+ A? 2722820.r.msn.com. (35)
+192.168.0.1.domain: 63346+ A? completion.amazon.com. (39)
+192.168.0.1.domain: 63356+ A? static.amazon.com. (35)
+192.168.0.1.domain: 64016+ A? www.woot.com. (30)
+192.168.0.1.domain: 6442+ A? www.createspace.com. (37)
+192.168.0.1.domain: 64596+ A? wenku.n.shifen.com. (36)
+192.168.0.1.domain: 65183+ A? dart.l.doubleclick.net. (40)
+192.168.0.1.domain: 65383+ A? metrochicago.com. (34)
+192.168.0.1.domain: 6542+ A? www.placesonline.com. (38)
+192.168.0.1.domain: 6837+ A? p06-keyvalueservice.icloud.com.akadns.net. (59)
+192.168.0.1.domain: 6938+ A? 1536120.r.msn.com. (35)
+192.168.0.1.domain: 8380+ A? t2.baidu.com. (30)
+192.168.0.1.domain: 961+ A? a6530995ba7e74597308c3e0820809ba0.profile.lhr50.cloudfront.net. (80)
+198.105.251.25.http: 
+198.105.254.25.http: 
+205.251.242.54.http: 
+205.251.242.54.https: 
+207.46.206.19.http: 
+31.13.69.160.https: 
+31.13.69.80.http: 
+31.13.69.80.https: 
+42.156.184.11.http: 
+50-93-210-4.restechservices.net.http: 
+61.135.162.115.http: 
+61.135.169.108.http: 
+61.135.185.26.http: 
+63-217-158-168.static.pccwglobal.net.http: 
+69.16.143.26.http: 
+72.21.202.25.http: 
+72.21.211.10.http: 
+72.21.211.9.http: 
+72.21.215.232.http: 
+93.184.216.146.https: 
+a-vip01.insnw.net.https: 
+a172-224-244-230.deploy.static.akamaitechnologies.com.https: 
+a184-85-215-10.deploy.static.akamaitechnologies.com.http: 
+a184-85-215-24.deploy.static.akamaitechnologies.com.http: 
+a23-3-96-123.deploy.static.akamaitechnologies.com.http: 
+a23-3-96-128.deploy.static.akamaitechnologies.com.http: 
+a23-3-96-129.deploy.static.akamaitechnologies.com.http: 
+a23-3-96-90.deploy.static.akamaitechnologies.com.http: 
+a23-61-187-27.deploy.static.akamaitechnologies.com.http: 
+a23-63-227-176.deploy.static.akamaitechnologies.com.http: 
+a23-79-107-159.deploy.static.akamaitechnologies.com.http: 
+ad.adlegend.com.http: 
+by3301-c.1drv.com.https: 
+ie-in-f84.1e100.net.https: 
+ord08s06-in-f13.1e100.net.http: 
+ord08s06-in-f3.1e100.net.http: 
+ord08s07-in-f15.1e100.net.https: 
+ord08s07-in-f17.1e100.net.https: 
+ord08s07-in-f19.1e100.net.https: 
+ord08s07-in-f27.1e100.net.http: 
+ord08s07-in-f28.1e100.net.http: 
+ord08s10-in-f27.1e100.net.http: 
+ord08s11-in-f2.1e100.net.https: 
+ord08s11-in-f5.1e100.net.https: 
+ord08s11-in-f6.1e100.net.https: 
+server-216-137-39-32.stl2.r.cloudfront.net.http: 
+server-54-230-198-238.lhr50.r.cloudfront.net.http: 
+server-54-230-198-47.lhr50.r.cloudfront.net.http: 
+server-54-230-33-11.stl2.r.cloudfront.net.http: 
+server-54-230-33-13.stl2.r.cloudfront.net.http: 
+server-54-230-35-99.stl2.r.cloudfront.net.http: 
