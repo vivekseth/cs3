@@ -329,7 +329,7 @@ void detectARPSpoofingAttack(char *filepath) {
 /** Port Scan Attack */
 
 void portScanAttackCallback(u_char *user, const struct pcap_pkthdr *h, const u_char *packet) {
-	int *index = (int *)user;
+	IPAddrHashTable *table = (IPAddrHashTable *)user;
 
 	struct sniff_ethernet *ethernet = (struct sniff_ethernet*)(packet);
 	struct sniff_ip *ip = (struct sniff_ip*)(packet + SIZE_ETHERNET);
@@ -361,20 +361,11 @@ void portScanAttackCallback(u_char *user, const struct pcap_pkthdr *h, const u_c
 
 
 	printf("\n");
-	// tcp = (struct sniff_tcp*)(packet + SIZE_ETHERNET + size_ip);
-	// size_tcp = TH_OFF(tcp)*4;
-	// if (size_tcp < 20) {
-	// 	printf("   * Invalid TCP header length: %u bytes\n", size_tcp);
-	// 	return;
-	// }
-	// payload = (u_char *)(packet + SIZE_ETHERNET + size_ip + size_tcp);	
-
-	// *index = *index + 1;
 }
 
 void detectPortScanAttack(char *filepath) {
-	int index = 0;
-	filterPackets(filepath, "", portScanAttackCallback, (u_char *)&index);
+	IPAddrHashTable *table = IPAddrHashTable_create();
+	filterPackets(filepath, "", portScanAttackCallback, table);
 }
 
 /** Main */

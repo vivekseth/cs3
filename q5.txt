@@ -1,0 +1,5 @@
+q5
+- a
+If mailicious user can inject javascript into other pages, he can send the value of `document.cookie` to some remote location usnig an invisible form
+
+- 
