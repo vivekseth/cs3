@@ -1,5 +1,16 @@
 q5
 - a
-If mailicious user can inject javascript into other pages, he can send the value of `document.cookie` to some remote location usnig an invisible form
+An XSS attack can be used to steal cookies by having the browser make an HTTP request to a remote URL that includes `document.cookie` in the query string. One way an attacker could do this is by setting the src of an image tag to this special URL. 
 
-- 
+- b 
+how to steal passwords: ???
+how to prevent? use session tokens, grant permission to user for 
+
+- c
+XSRF is an example of a confused deputy attack because it uses the trust the browser has in a user, and the site it renders to make malicious HTTP requests. 
+
+The browser is the confused deputy. 
+
+The browser acts on behalf of both the user and the site which it renders. 
+
+- d

@@ -1,0 +1,984 @@
+04:45:49.765344 IP (tos 0x0, ttl 64, id 6554, offset 0, flags [DF], proto TCP (6), length 64)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [S], cksum 0xdd4b (correct), seq 3837929012, win 65535, options [mss 1460,nop,wscale 4,nop,nop,TS val 71620437 ecr 0,sackOK,eol], length 0
+E..@..@.@......d.x........&4.........K.............
+.D.U........
+04:45:50.168960 IP (tos 0x0, ttl 30, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [S.], cksum 0xf839 (correct), seq 308496191, ack 3837929013, win 5792, options [mss 1448,sackOK,TS val 3100691707 ecr 71620437,nop,wscale 7], length 0
+E..<..@....5.x.....d.....cG?..&5.....9.........
+.....D.U....
+04:45:50.169037 IP (tos 0x0, ttl 64, id 36792, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x1bc6 (correct), seq 1, ack 1, win 8257, options [nop,nop,TS val 71620840 ecr 3100691707], length 0
+E..4..@.@......d.x........&5.cG@.. A.......
+.D......
+04:45:50.578031 IP (tos 0x0, ttl 30, id 35274, offset 0, flags [DF], proto TCP (6), length 58)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xcac3 (correct), seq 1:7, ack 1, win 46, options [nop,nop,TS val 3100692121 ecr 71620840], length 6: FTP, length: 6
+	220-
+E..:..@...Em.x.....d.....cG@..&5...........
+.....D..220-
+
+04:45:50.578115 IP (tos 0x0, ttl 64, id 38635, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x188a (correct), seq 1, ack 7, win 8256, options [nop,nop,TS val 71621249 ecr 3100692121], length 0
+E..4..@.@..R...d.x........&5.cGF.. @.......
+.D......
+04:45:50.987257 IP (tos 0x0, ttl 30, id 35275, offset 0, flags [DF], proto TCP (6), length 463)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xc380 (correct), seq 7:418, ack 1, win 46, options [nop,nop,TS val 3100692516 ecr 71621249], length 411: FTP, length: 411
+	220-  -- Welcome to Portal of Shanghai Jiao Tong University --
+	220-  -You are number 22 of 1200 allowed users.
+	220-  -Local time is Mon Feb 24 16:45:50 2014 now.
+	220-  -This is a private system - No anonymous login allowed
+	220-  -You will be disconnected after 15 minutes of inactivity.
+	220-  ---------------------------------------------------------
+	220 ProFTPD 1.3.2 Server (public_SJTU) [202.120.2.2]
+E.....@...C..x.....d.....cGF..&5...........
+...$.D..220-  -- Welcome to Portal of Shanghai Jiao Tong University --
+220-  -You are number 22 of 1200 allowed users.
+220-  -Local time is Mon Feb 24 16:45:50 2014 now.
+220-  -This is a private system - No anonymous login allowed
+220-  -You will be disconnected after 15 minutes of inactivity.
+220-  ---------------------------------------------------------
+220 ProFTPD 1.3.2 Server (public_SJTU) [202.120.2.2]
+
+04:45:50.987330 IP (tos 0x0, ttl 64, id 26622, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x13e7 (correct), seq 1, ack 418, win 8230, options [nop,nop,TS val 71621656 ecr 3100692516], length 0
+E..4g.@.@.E?...d.x........&5.cH... &.......
+.D.....$
+04:45:50.987636 IP (tos 0x0, ttl 64, id 17599, offset 0, flags [DF], proto TCP (6), length 70)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x2992 (correct), seq 1:19, ack 418, win 8230, options [nop,nop,TS val 71621656 ecr 3100692516], length 18: FTP, length: 18
+	USER shiningmoon
+E..FD.@.@.hl...d.x........&5.cH... &)......
+.D.....$USER shiningmoon
+
+04:45:51.396462 IP (tos 0x0, ttl 30, id 35276, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0x3230 (correct), seq 418, ack 19, win 46, options [nop,nop,TS val 3100692929 ecr 71621656], length 0
+E..4..@...Eq.x.....d.....cH...&G....20.....
+.....D..
+04:45:51.396526 IP (tos 0x0, ttl 30, id 35277, offset 0, flags [DF], proto TCP (6), length 91)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xe070 (correct), seq 418:457, ack 19, win 46, options [nop,nop,TS val 3100692931 ecr 71621656], length 39: FTP, length: 39
+	331 Password required for shiningmoon
+E..[..@...EI.x.....d.....cH...&G.....p.....
+.....D..331 Password required for shiningmoon
+
+04:45:51.396594 IP (tos 0x0, ttl 64, id 17304, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x107a (correct), seq 19, ack 457, win 8228, options [nop,nop,TS val 71622063 ecr 3100692931], length 0
+E..4C.@.@.i....d.x........&G.cI... $.z.....
+.D......
+04:45:51.396838 IP (tos 0x0, ttl 64, id 13251, offset 0, flags [DF], proto TCP (6), length 65)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0xfd86 (correct), seq 19:32, ack 457, win 8228, options [nop,nop,TS val 71622063 ecr 3100692931], length 13: FTP, length: 13
+	PASS public
+E..A3.@.@.ym...d.x........&G.cI... $.......
+.D......PASS public
+
+04:45:51.805337 IP (tos 0x0, ttl 30, id 35278, offset 0, flags [DF], proto TCP (6), length 90)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x04e0 (correct), seq 457:495, ack 32, win 46, options [nop,nop,TS val 3100693374 ecr 71622063], length 38: FTP, length: 38
+	230-  Quotas on: 17.71 MB/500.00 MB 
+E..Z..@...EI.x.....d.....cI...&T...........
+...~.D..230-  Quotas on: 17.71 MB/500.00 MB 
+
+04:45:51.805405 IP (tos 0x0, ttl 64, id 22939, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x0cf7 (correct), seq 32, ack 495, win 8226, options [nop,nop,TS val 71622470 ecr 3100693374], length 0
+E..4Y.@.@.S....d.x........&T.cI... ".......
+.D.F...~
+04:45:52.215464 IP (tos 0x0, ttl 30, id 35279, offset 0, flags [DF], proto TCP (6), length 84)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xf9bb (correct), seq 495:527, ack 32, win 46, options [nop,nop,TS val 3100693743 ecr 71622470], length 32: FTP, length: 32
+	230 User shiningmoon logged in
+E..T..@...EN.x.....d.....cI...&T...........
+.....D.F230 User shiningmoon logged in
+
+04:45:52.215539 IP (tos 0x0, ttl 64, id 50596, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x09cf (correct), seq 32, ack 527, win 8224, options [nop,nop,TS val 71622879 ecr 3100693743], length 0
+E..4..@.@......d.x........&T.cIN..  	......
+.D......
+04:45:52.215768 IP (tos 0x0, ttl 64, id 33160, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x5609 (correct), seq 32:38, ack 527, win 8224, options [nop,nop,TS val 71622879 ecr 3100693743], length 6: FTP, length: 6
+	SYST
+E..:..@.@.+....d.x........&T.cIN..  V	.....
+.D......SYST
+
+04:45:52.623349 IP (tos 0x0, ttl 30, id 35280, offset 0, flags [DF], proto TCP (6), length 71)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xc0b1 (correct), seq 527:546, ack 38, win 46, options [nop,nop,TS val 3100694157 ecr 71622879], length 19: FTP, length: 19
+	215 UNIX Type: L8
+E..G..@...EZ.x.....d.....cIN..&Z...........
+.....D..215 UNIX Type: L8
+
+04:45:52.623440 IP (tos 0x0, ttl 64, id 37052, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x0684 (correct), seq 38, ack 546, win 8222, options [nop,nop,TS val 71623285 ecr 3100694157], length 0
+E..4..@.@......d.x........&Z.cIa.. ........
+.D.u....
+04:45:52.623846 IP (tos 0x0, ttl 64, id 23321, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x71d2 (correct), seq 38:44, ack 546, win 8222, options [nop,nop,TS val 71623285 ecr 3100694157], length 6: FTP, length: 6
+	FEAT
+E..:[.@.@.R....d.x........&Z.cIa.. .q......
+.D.u....FEAT
+
+04:45:53.032891 IP (tos 0x0, ttl 30, id 35281, offset 0, flags [DF], proto TCP (6), length 87)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xfe67 (correct), seq 546:581, ack 44, win 46, options [nop,nop,TS val 3100694568 ecr 71623285], length 35: FTP, length: 35
+	550 FEAT: Operation not permitted
+E..W..@...EI.x.....d.....cIa..&`.....g.....
+...(.D.u550 FEAT: Operation not permitted
+
+04:45:53.032970 IP (tos 0x0, ttl 64, id 65365, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x032a (correct), seq 44, ack 581, win 8220, options [nop,nop,TS val 71623693 ecr 3100694568], length 0
+E..4.U@.@......d.x........&`.cI... ..*.....
+.D.....(
+04:45:53.034375 IP (tos 0x0, ttl 64, id 35521, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x64b7 (correct), seq 44:49, ack 581, win 8220, options [nop,nop,TS val 71623694 ecr 3100694568], length 5: FTP, length: 5
+	PWD
+E..9..@.@."w...d.x........&`.cI... .d......
+.D.....(PWD
+
+04:45:53.544362 IP (tos 0x0, ttl 30, id 35282, offset 0, flags [DF], proto TCP (6), length 86)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x2783 (correct), seq 581:615, ack 49, win 46, options [nop,nop,TS val 3100694975 ecr 71623694], length 34: FTP, length: 34
+	257 "/" is the current directory
+E..V..@...EI.x.....d.....cI...&e....'......
+.....D..257 "/" is the current directory
+
+04:45:53.544439 IP (tos 0x0, ttl 64, id 26618, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xff70 (correct), seq 49, ack 615, win 8218, options [nop,nop,TS val 71624202 ecr 3100694975], length 0
+E..4g.@.@.EC...d.x........&e.cI... ..p.....
+.D.
+....
+04:45:53.546933 IP (tos 0x0, ttl 64, id 17239, offset 0, flags [DF], proto TCP (6), length 60)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x2d6d (correct), seq 49:57, ack 615, win 8218, options [nop,nop,TS val 71624204 ecr 3100694975], length 8: FTP, length: 8
+	TYPE I
+E..<CW@.@.i....d.x........&e.cI... .-m.....
+.D......TYPE I
+
+04:45:53.927674 IP (tos 0x0, ttl 30, id 35283, offset 0, flags [DF], proto TCP (6), length 71)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x8d81 (correct), seq 615:634, ack 57, win 46, options [nop,nop,TS val 3100695485 ecr 71624204], length 19: FTP, length: 19
+	200 Type set to I
+E..G..@...EW.x.....d.....cI...&m...........
+.....D..200 Type set to I
+
+04:45:53.927752 IP (tos 0x0, ttl 64, id 38309, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xfbda (correct), seq 57, ack 634, win 8217, options [nop,nop,TS val 71624584 ecr 3100695485], length 0
+E..4..@.@......d.x........&m.cI... ........
+.D......
+04:45:53.928024 IP (tos 0x0, ttl 64, id 42481, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x4b2b (correct), seq 57:63, ack 634, win 8217, options [nop,nop,TS val 71624584 ecr 3100695485], length 6: FTP, length: 6
+	PASV
+E..:..@.@..F...d.x........&m.cI... .K+.....
+.D......PASV
+
+04:45:54.260357 IP (tos 0x0, ttl 30, id 35284, offset 0, flags [DF], proto TCP (6), length 102)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xb574 (correct), seq 634:684, ack 63, win 46, options [nop,nop,TS val 3100695871 ecr 71624584], length 50: FTP, length: 50
+	227 Entering Passive Mode (202,120,2,2,216,217).
+E..f..@...E7.x.....d.....cI...&s.....t.....
+...?.D..227 Entering Passive Mode (202,120,2,2,216,217).
+
+04:45:54.260434 IP (tos 0x0, ttl 64, id 50569, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xf8d7 (correct), seq 63, ack 684, win 8214, options [nop,nop,TS val 71624916 ecr 3100695871], length 0
+E..4..@.@......d.x........&s.cI... ........
+.D.....?
+04:45:54.261429 IP (tos 0x0, ttl 64, id 56824, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x4c22 (correct), seq 63:69, ack 684, win 8214, options [nop,nop,TS val 71624916 ecr 3100695871], length 6: FTP, length: 6
+	LIST
+E..:..@.@..>...d.x........&s.cI... .L".....
+.D.....?LIST
+
+04:45:54.670031 IP (tos 0x0, ttl 30, id 35285, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0x1745 (correct), seq 684, ack 69, win 46, options [nop,nop,TS val 3100696244 ecr 71624916], length 0
+E..4..@...Eh.x.....d.....cI...&y.....E.....
+.....D..
+04:45:55.077775 IP (tos 0x0, ttl 30, id 35286, offset 0, flags [DF], proto TCP (6), length 106)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x2581 (correct), seq 684:738, ack 69, win 46, options [nop,nop,TS val 3100696608 ecr 71624916], length 54: FTP, length: 54
+	150 Opening ASCII mode data connection for file list
+E..j..@...E1.x.....d.....cI...&y....%......
+... .D..150 Opening ASCII mode data connection for file list
+
+04:45:55.077848 IP (tos 0x0, ttl 64, id 588, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xf290 (correct), seq 69, ack 738, win 8210, options [nop,nop,TS val 71625730 ecr 3100696608], length 0
+E..4.L@.@......d.x........&y.cJ!.. ........
+.D..... 
+04:45:55.487094 IP (tos 0x0, ttl 30, id 35287, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x44e1 (correct), seq 738:761, ack 69, win 46, options [nop,nop,TS val 3100697034 ecr 71625730], length 23: FTP, length: 23
+	226 Transfer complete
+E..K..@...EO.x.....d.....cJ!..&y....D......
+.....D..226 Transfer complete
+
+04:45:55.487207 IP (tos 0x0, ttl 64, id 51878, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xef3a (correct), seq 69, ack 761, win 8209, options [nop,nop,TS val 71626136 ecr 3100697034], length 0
+E..4..@.@......d.x........&y.cJ8.. ..:.....
+.D......
+04:46:13.843817 IP (tos 0x0, ttl 64, id 36270, offset 0, flags [DF], proto TCP (6), length 64)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [S], cksum 0x948d (correct), seq 679660869, win 65535, options [mss 1460,nop,wscale 4,nop,nop,TS val 71644480 ecr 0,sackOK,eol], length 0
+E..@..@.@......d.x......(..E.......................
+.E5@........
+04:46:14.203272 IP (tos 0x0, ttl 30, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [S.], cksum 0x5c40 (correct), seq 332086014, ack 679660870, win 5792, options [mss 1448,sackOK,TS val 3100715791 ecr 71644480,nop,wscale 7], length 0
+E..<..@....5.x.....d......:.(..F....\@.........
+..+..E5@....
+04:46:14.203344 IP (tos 0x0, ttl 64, id 47386, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x7ff8 (correct), seq 1, ack 1, win 8257, options [nop,nop,TS val 71644839 ecr 3100715791], length 0
+E..4..@.@.."...d.x......(..F..:... A.......
+.E6...+.
+04:46:14.612298 IP (tos 0x0, ttl 30, id 5765, offset 0, flags [DF], proto TCP (6), length 58)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x2f1c (correct), seq 1:7, ack 1, win 46, options [nop,nop,TS val 3100716167 ecr 71644839], length 6: FTP, length: 6
+	220-
+E..:..@......x.....d......:.(..F..../......
+..,..E6.220-
+
+04:46:14.612383 IP (tos 0x0, ttl 64, id 10416, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x7ce3 (correct), seq 1, ack 7, win 8256, options [nop,nop,TS val 71645247 ecr 3100716167], length 0
+E..4(.@.@......d.x......(..F..;... @|......
+.E8?..,.
+04:46:15.021501 IP (tos 0x0, ttl 30, id 5766, offset 0, flags [DF], proto TCP (6), length 463)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x23d7 (correct), seq 7:418, ack 1, win 46, options [nop,nop,TS val 3100716566 ecr 71645247], length 411: FTP, length: 411
+	220-  -- Welcome to Portal of Shanghai Jiao Tong University --
+	220-  -You are number 24 of 1200 allowed users.
+	220-  -Local time is Mon Feb 24 16:46:14 2014 now.
+	220-  -This is a private system - No anonymous login allowed
+	220-  -You will be disconnected after 15 minutes of inactivity.
+	220-  ---------------------------------------------------------
+	220 ProFTPD 1.3.2 Server (public_SJTU) [202.120.2.2]
+E.....@......x.....d......;.(..F....#......
+.....E8?220-  -- Welcome to Portal of Shanghai Jiao Tong University --
+220-  -You are number 24 of 1200 allowed users.
+220-  -Local time is Mon Feb 24 16:46:14 2014 now.
+220-  -This is a private system - No anonymous login allowed
+220-  -You will be disconnected after 15 minutes of inactivity.
+220-  ---------------------------------------------------------
+220 ProFTPD 1.3.2 Server (public_SJTU) [202.120.2.2]
+
+04:46:15.021571 IP (tos 0x0, ttl 64, id 35112, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x783b (correct), seq 1, ack 418, win 8230, options [nop,nop,TS val 71645655 ecr 3100716566], length 0
+E..4.(@.@.$....d.x......(..F..<... &x;.....
+.E9.....
+04:46:15.021969 IP (tos 0x0, ttl 64, id 12159, offset 0, flags [DF], proto TCP (6), length 70)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x8de6 (correct), seq 1:19, ack 418, win 8230, options [nop,nop,TS val 71645655 ecr 3100716566], length 18: FTP, length: 18
+	USER shiningmoon
+E..F/.@.@.}....d.x......(..F..<... &.......
+.E9.....USER shiningmoon
+
+04:46:15.430623 IP (tos 0x0, ttl 30, id 5767, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [.], cksum 0x968e (correct), seq 418, ack 19, win 46, options [nop,nop,TS val 3100716969 ecr 71645655], length 0
+E..4..@......x.....d......<.(..X...........
+../..E9.
+04:46:15.430739 IP (tos 0x0, ttl 30, id 5768, offset 0, flags [DF], proto TCP (6), length 91)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x44ce (correct), seq 418:457, ack 19, win 46, options [nop,nop,TS val 3100716972 ecr 71645655], length 39: FTP, length: 39
+	331 Password required for shiningmoon
+E..[..@......x.....d......<.(..X....D......
+../..E9.331 Password required for shiningmoon
+
+04:46:15.430793 IP (tos 0x0, ttl 64, id 41028, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x74d8 (correct), seq 19, ack 457, win 8228, options [nop,nop,TS val 71646061 ecr 3100716972], length 0
+E..4.D@.@......d.x......(..X..<... $t......
+.E;m../.
+04:46:15.431055 IP (tos 0x0, ttl 64, id 57762, offset 0, flags [DF], proto TCP (6), length 65)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x61e5 (correct), seq 19:32, ack 457, win 8228, options [nop,nop,TS val 71646061 ecr 3100716972], length 13: FTP, length: 13
+	PASS public
+E..A..@.@......d.x......(..X..<... $a......
+.E;m../.PASS public
+
+04:46:15.839536 IP (tos 0x0, ttl 30, id 5769, offset 0, flags [DF], proto TCP (6), length 90)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x694b (correct), seq 457:495, ack 32, win 46, options [nop,nop,TS val 3100717402 ecr 71646061], length 38: FTP, length: 38
+	230-  Quotas on: 17.71 MB/500.00 MB 
+E..Z..@......x.....d......<.(..e....iK.....
+..1Z.E;m230-  Quotas on: 17.71 MB/500.00 MB 
+
+04:46:15.839615 IP (tos 0x0, ttl 64, id 27567, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x7162 (correct), seq 32, ack 495, win 8226, options [nop,nop,TS val 71646468 ecr 3100717402], length 0
+E..4k.@.@.A....d.x......(..e..<... "qb.....
+.E=...1Z
+04:46:16.248553 IP (tos 0x0, ttl 30, id 5770, offset 0, flags [DF], proto TCP (6), length 84)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x5e1b (correct), seq 495:527, ack 32, win 46, options [nop,nop,TS val 3100717783 ecr 71646468], length 32: FTP, length: 32
+	230 User shiningmoon logged in
+E..T..@......x.....d......<.(..e....^......
+..2..E=.230 User shiningmoon logged in
+
+04:46:16.248632 IP (tos 0x0, ttl 64, id 7000, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x6e2f (correct), seq 32, ack 527, win 8224, options [nop,nop,TS val 71646876 ecr 3100717783], length 0
+E..4.X@.@......d.x......(..e..=...  n/.....
+.E>...2.
+04:46:16.249838 IP (tos 0x0, ttl 64, id 40134, offset 0, flags [DF], proto TCP (6), length 59)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0xad9a (correct), seq 32:39, ack 527, win 8224, options [nop,nop,TS val 71646877 ecr 3100717783], length 7: FTP, length: 7
+	CWD /
+E..;..@.@..p...d.x......(..e..=...  .......
+.E>...2.CWD /
+
+04:46:16.657879 IP (tos 0x0, ttl 30, id 5771, offset 0, flags [DF], proto TCP (6), length 80)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0xd9f2 (correct), seq 527:555, ack 39, win 46, options [nop,nop,TS val 3100718200 ecr 71646877], length 28: FTP, length: 28
+	250 CWD command successful
+E..P..@......x.....d......=.(..l...........
+..4x.E>.250 CWD command successful
+
+04:46:16.657962 IP (tos 0x0, ttl 64, id 49958, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x6ad6 (correct), seq 39, ack 555, win 8222, options [nop,nop,TS val 71647283 ecr 3100718200], length 0
+E..4.&@.@......d.x......(..l..=).. .j......
+.E@3..4x
+04:46:16.658167 IP (tos 0x0, ttl 64, id 55290, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0xcc64 (correct), seq 39:44, ack 555, win 8222, options [nop,nop,TS val 71647283 ecr 3100718200], length 5: FTP, length: 5
+	PWD
+E..9..@.@..=...d.x......(..l..=).. ..d.....
+.E@3..4xPWD
+
+04:46:17.066988 IP (tos 0x0, ttl 30, id 5772, offset 0, flags [DF], proto TCP (6), length 86)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x8f31 (correct), seq 555:589, ack 44, win 46, options [nop,nop,TS val 3100718608 ecr 71647283], length 34: FTP, length: 34
+	257 "/" is the current directory
+E..V..@......x.....d......=)(..q.....1.....
+..6..E@3257 "/" is the current directory
+
+04:46:17.067067 IP (tos 0x0, ttl 64, id 11601, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x6781 (correct), seq 44, ack 589, win 8220, options [nop,nop,TS val 71647691 ecr 3100718608], length 0
+E..4-Q@.@......d.x......(..q..=K.. .g......
+.EA...6.
+04:46:17.067954 IP (tos 0x0, ttl 64, id 43372, offset 0, flags [DF], proto TCP (6), length 60)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x957f (correct), seq 44:52, ack 589, win 8220, options [nop,nop,TS val 71647691 ecr 3100718608], length 8: FTP, length: 8
+	TYPE I
+E..<.l@.@......d.x......(..q..=K.. ........
+.EA...6.TYPE I
+
+04:46:17.476357 IP (tos 0x0, ttl 30, id 5773, offset 0, flags [DF], proto TCP (6), length 71)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0xf5fa (correct), seq 589:608, ack 52, win 46, options [nop,nop,TS val 3100719017 ecr 71647691], length 19: FTP, length: 19
+	200 Type set to I
+E..G..@......x.....d......=K(..y...........
+..7..EA.200 Type set to I
+
+04:46:17.476451 IP (tos 0x0, ttl 64, id 26179, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x6437 (correct), seq 52, ack 608, win 8219, options [nop,nop,TS val 71648098 ecr 3100719017], length 0
+E..4fC@.@.F....d.x......(..y..=^.. .d7.....
+.ECb..7.
+04:46:17.477892 IP (tos 0x0, ttl 64, id 47022, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0xb386 (correct), seq 52:58, ack 608, win 8219, options [nop,nop,TS val 71648099 ecr 3100719017], length 6: FTP, length: 6
+	PASV
+E..:..@.@......d.x......(..y..=^.. ........
+.ECc..7.PASV
+
+04:46:17.885229 IP (tos 0x0, ttl 30, id 5774, offset 0, flags [DF], proto TCP (6), length 102)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x15c1 (correct), seq 608:658, ack 58, win 46, options [nop,nop,TS val 3100719425 ecr 71648099], length 50: FTP, length: 50
+	227 Entering Passive Mode (202,120,2,2,198,112).
+E..f..@....}.x.....d......=^(..............
+..9A.ECc227 Entering Passive Mode (202,120,2,2,198,112).
+
+04:46:17.885304 IP (tos 0x0, ttl 64, id 61925, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x60d4 (correct), seq 58, ack 658, win 8215, options [nop,nop,TS val 71648505 ecr 3100719425], length 0
+E..4..@.@..W...d.x......(.....=... .`......
+.ED...9A
+04:46:17.886113 IP (tos 0x0, ttl 64, id 2486, offset 0, flags [DF], proto TCP (6), length 69)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x5d49 (correct), seq 58:75, ack 658, win 8215, options [nop,nop,TS val 71648505 ecr 3100719425], length 17: FTP, length: 17
+	RETR dragon.zip
+E..E	.@.@..v...d.x......(.....=... .]I.....
+.ED...9ARETR dragon.zip
+
+04:46:18.294605 IP (tos 0x0, ttl 30, id 5775, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [.], cksum 0x7eee (correct), seq 658, ack 75, win 46, options [nop,nop,TS val 3100719871 ecr 71648505], length 0
+E..4..@......x.....d......=.(.......~......
+..:..ED.
+04:46:18.703170 IP (tos 0x0, ttl 30, id 5776, offset 0, flags [DF], proto TCP (6), length 121)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x49f1 (correct), seq 658:727, ack 75, win 46, options [nop,nop,TS val 3100720233 ecr 71648505], length 69: FTP, length: 69
+	150 Opening BINARY mode data connection for dragon.zip (9914 bytes)
+E..y..@....h.x.....d......=.(.......I......
+..<i.ED.150 Opening BINARY mode data connection for dragon.zip (9914 bytes)
+
+04:46:18.703244 IP (tos 0x0, ttl 64, id 16345, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x5a2b (correct), seq 75, ack 727, win 8211, options [nop,nop,TS val 71649320 ecr 3100720233], length 0
+E..4?.@.@.md...d.x......(.....=... .Z+.....
+.EH(..<i
+04:46:19.188619 IP (tos 0x0, ttl 30, id 5777, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0xabd3 (correct), seq 727:750, ack 75, win 46, options [nop,nop,TS val 3100720828 ecr 71649320], length 23: FTP, length: 23
+	226 Transfer complete
+E..K..@......x.....d......=.(..............
+..>..EH(226 Transfer complete
+
+04:46:19.188748 IP (tos 0x0, ttl 64, id 53680, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x55e0 (correct), seq 75, ack 750, win 8210, options [nop,nop,TS val 71649802 ecr 3100720828], length 0
+E..4..@.@......d.x......(.....=... .U......
+.EJ
+..>.
+04:46:24.693479 IP (tos 0x0, ttl 64, id 11125, offset 0, flags [DF], proto TCP (6), length 64)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0xb1ac (correct), seq 69:81, ack 761, win 8209, options [nop,nop,TS val 71655299 ecr 3100697034], length 12: FTP, length: 12
+	CWD phase1
+E..@+u@.@......d.x........&y.cJ8.. ........
+.E_.....CWD phase1
+
+04:46:25.044321 IP (tos 0x0, ttl 30, id 35288, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0x297e (correct), seq 761, ack 81, win 46, options [nop,nop,TS val 3100726642 ecr 71655299], length 0
+E..4..@...Ee.x.....d.....cJ8..&.....)~.....
+..Ur.E_.
+04:46:25.044422 IP (tos 0x0, ttl 30, id 35289, offset 0, flags [DF], proto TCP (6), length 80)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x76f6 (correct), seq 761:789, ack 81, win 46, options [nop,nop,TS val 3100726644 ecr 71655299], length 28: FTP, length: 28
+	250 CWD command successful
+E..P..@...EH.x.....d.....cJ8..&.....v......
+..Ut.E_.250 CWD command successful
+
+04:46:25.044479 IP (tos 0x0, ttl 64, id 40113, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x0822 (correct), seq 81, ack 789, win 8207, options [nop,nop,TS val 71655648 ecr 3100726644], length 0
+E..4..@.@......d.x........&..cJT.. ..".....
+.E`...Ut
+04:46:25.044727 IP (tos 0x0, ttl 64, id 59642, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x69b0 (correct), seq 81:86, ack 789, win 8207, options [nop,nop,TS val 71655648 ecr 3100726644], length 5: FTP, length: 5
+	PWD
+E..9..@.@..=...d.x........&..cJT.. .i......
+.E`...UtPWD
+
+04:46:25.453322 IP (tos 0x0, ttl 30, id 35290, offset 0, flags [DF], proto TCP (6), length 92)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xf597 (correct), seq 789:829, ack 86, win 46, options [nop,nop,TS val 3100726991 ecr 71655648], length 40: FTP, length: 40
+	257 "/phase1" is the current directory
+E..\..@...E;.x.....d.....cJT..&............
+..V..E`.257 "/phase1" is the current directory
+
+04:46:25.453386 IP (tos 0x0, ttl 64, id 55017, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x0504 (correct), seq 86, ack 829, win 8205, options [nop,nop,TS val 71656056 ecr 3100726991], length 0
+E..4..@.@..S...d.x........&..cJ|.. ........
+.Ebx..V.
+04:46:25.453647 IP (tos 0x0, ttl 64, id 60308, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x5454 (correct), seq 86:92, ack 829, win 8205, options [nop,nop,TS val 71656056 ecr 3100726991], length 6: FTP, length: 6
+	PASV
+E..:..@.@......d.x........&..cJ|.. .TT.....
+.Ebx..V.PASV
+
+04:46:25.862500 IP (tos 0x0, ttl 30, id 35291, offset 0, flags [DF], proto TCP (6), length 102)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xb980 (correct), seq 829:879, ack 92, win 46, options [nop,nop,TS val 3100727399 ecr 71656056], length 50: FTP, length: 50
+	227 Entering Passive Mode (202,120,2,2,229,150).
+E..f..@...E0.x.....d.....cJ|..&............
+..Xg.Ebx227 Entering Passive Mode (202,120,2,2,229,150).
+
+04:46:25.862591 IP (tos 0x0, ttl 64, id 20316, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x019f (correct), seq 92, ack 879, win 8202, options [nop,nop,TS val 71656464 ecr 3100727399], length 0
+E..4O\@.@.]....d.x........&..cJ... 
+.......
+.Ed...Xg
+04:46:25.864439 IP (tos 0x0, ttl 64, id 8484, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x54e8 (correct), seq 92:98, ack 879, win 8202, options [nop,nop,TS val 71656465 ecr 3100727399], length 6: FTP, length: 6
+	LIST
+E..:!$@.@......d.x........&..cJ... 
+T......
+.Ed...XgLIST
+
+04:46:26.271773 IP (tos 0x0, ttl 30, id 35292, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0x1fb3 (correct), seq 879, ack 98, win 46, options [nop,nop,TS val 3100727848 ecr 71656465], length 0
+E..4..@...Ea.x.....d.....cJ...&............
+..Z(.Ed.
+04:46:26.683343 IP (tos 0x0, ttl 30, id 35293, offset 0, flags [DF], proto TCP (6), length 106)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x2ded (correct), seq 879:933, ack 98, win 46, options [nop,nop,TS val 3100728214 ecr 71656465], length 54: FTP, length: 54
+	150 Opening ASCII mode data connection for file list
+E..j..@...E*.x.....d.....cJ...&.....-......
+..[..Ed.150 Opening ASCII mode data connection for file list
+
+04:46:26.683471 IP (tos 0x0, ttl 64, id 37297, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xfb07 (correct), seq 98, ack 933, win 8198, options [nop,nop,TS val 71657280 ecr 3100728214], length 0
+E..4..@.@......d.x........&..cJ... ........
+.Eg@..[.
+04:46:27.090131 IP (tos 0x0, ttl 30, id 35294, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x4d57 (correct), seq 933:956, ack 98, win 46, options [nop,nop,TS val 3100728629 ecr 71657280], length 23: FTP, length: 23
+	226 Transfer complete
+E..K..@...EH.x.....d.....cJ...&.....MW.....
+..]5.Eg@226 Transfer complete
+
+04:46:27.090193 IP (tos 0x0, ttl 64, id 45247, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xf7bc (correct), seq 98, ack 956, win 8197, options [nop,nop,TS val 71657686 ecr 3100728629], length 0
+E..4..@.@..}...d.x........&..cJ... ........
+.Eh...]5
+04:46:31.350352 IP (tos 0x0, ttl 64, id 58809, offset 0, flags [DF], proto TCP (6), length 65)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x58a1 (correct), seq 75:88, ack 750, win 8210, options [nop,nop,TS val 71661944 ecr 3100720828], length 13: FTP, length: 13
+	CWD /phase1
+E..A..@.@..v...d.x......(.....=... .X......
+.Eyx..>.CWD /phase1
+
+04:46:31.351188 IP (tos 0x0, ttl 64, id 44942, offset 0, flags [DF], proto TCP (6), length 64)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [S], cksum 0x9806 (correct), seq 2119708603, win 65535, options [mss 1460,nop,wscale 4,nop,nop,TS val 71661944 ecr 0,sackOK,eol], length 0
+E..@..@.@......d.x......~X/........................
+.Eyx........
+04:46:31.692021 IP (tos 0x0, ttl 30, id 5778, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [.], cksum 0x1597 (correct), seq 750, ack 88, win 46, options [nop,nop,TS val 3100733294 ecr 71661944], length 0
+E..4..@......x.....d......=.(..............
+..on.Eyx
+04:46:31.692147 IP (tos 0x0, ttl 30, id 5779, offset 0, flags [DF], proto TCP (6), length 80)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x630f (correct), seq 750:778, ack 88, win 46, options [nop,nop,TS val 3100733296 ecr 71661944], length 28: FTP, length: 28
+	250 CWD command successful
+E..P..@......x.....d......=.(.......c......
+..op.Eyx250 CWD command successful
+
+04:46:31.692151 IP (tos 0x0, ttl 30, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [S.], cksum 0xe076 (correct), seq 352023725, ack 2119708604, win 5792, options [mss 1448,sackOK,TS val 3100733298 ecr 71661944,nop,wscale 7], length 0
+E..<..@....5.x.....d......t.~X/......v.........
+..or.Eyx....
+04:46:31.692216 IP (tos 0x0, ttl 64, id 28468, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xf441 (correct), seq 88, ack 778, win 8208, options [nop,nop,TS val 71662285 ecr 3100733296], length 0
+E..4o4@.@.>	...d.x......(.....>... ..A.....
+.Ez...op
+04:46:31.692261 IP (tos 0x0, ttl 64, id 15430, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0x0441 (correct), seq 1, ack 1, win 8257, options [nop,nop,TS val 71662285 ecr 3100733298], length 0
+E..4<F@.@.p....d.x......~X/...t... A.A.....
+.Ez...or
+04:46:31.692433 IP (tos 0x0, ttl 64, id 42935, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x55d0 (correct), seq 88:93, ack 778, win 8208, options [nop,nop,TS val 71662285 ecr 3100733296], length 5: FTP, length: 5
+	PWD
+E..9..@.@......d.x......(.....>... .U......
+.Ez...opPWD
+
+04:46:32.101221 IP (tos 0x0, ttl 30, id 5780, offset 0, flags [DF], proto TCP (6), length 92)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0xe1ba (correct), seq 778:818, ack 93, win 46, options [nop,nop,TS val 3100733641 ecr 71662285], length 40: FTP, length: 40
+	257 "/phase1" is the current directory
+E..\..@......x.....d......>.(..............
+..p..Ez.257 "/phase1" is the current directory
+
+04:46:32.101284 IP (tos 0x0, ttl 30, id 1126, offset 0, flags [DF], proto TCP (6), length 58)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xb37a (correct), seq 1:7, ack 1, win 46, options [nop,nop,TS val 3100733652 ecr 71662285], length 6: FTP, length: 6
+	220-
+E..:.f@......x.....d......t.~X/......z.....
+..p..Ez.220-
+
+04:46:32.101337 IP (tos 0x0, ttl 64, id 54186, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xf126 (correct), seq 93, ack 818, win 8205, options [nop,nop,TS val 71662693 ecr 3100733641], length 0
+E..4..@.@......d.x......(.....>0.. ..&.....
+.E|e..p.
+04:46:32.101385 IP (tos 0x0, ttl 64, id 24992, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0x0142 (correct), seq 1, ack 7, win 8256, options [nop,nop,TS val 71662693 ecr 3100733652], length 0
+E..4a.@.@.K....d.x......~X/...t... @.B.....
+.E|e..p.
+04:46:32.101927 IP (tos 0x0, ttl 64, id 15469, offset 0, flags [DF], proto TCP (6), length 60)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x1f2d (correct), seq 93:101, ack 818, win 8205, options [nop,nop,TS val 71662693 ecr 3100733641], length 8: FTP, length: 8
+	TYPE A
+E..<<m@.@.p....d.x......(.....>0.. ..-.....
+.E|e..p.TYPE A
+
+04:46:32.406322 IP (tos 0x0, ttl 30, id 5781, offset 0, flags [DF], proto TCP (6), length 71)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x8793 (correct), seq 818:837, ack 101, win 46, options [nop,nop,TS val 3100734048 ecr 71662693], length 19: FTP, length: 19
+	200 Type set to A
+E..G..@......x.....d......>0(..............
+..r`.E|e200 Type set to A
+
+04:46:32.406404 IP (tos 0x0, ttl 64, id 39513, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xee45 (correct), seq 101, ack 837, win 8204, options [nop,nop,TS val 71662997 ecr 3100734048], length 0
+E..4.Y@.@......d.x......(.....>C.. ..E.....
+.E}...r`
+04:46:32.406523 IP (tos 0x0, ttl 30, id 1127, offset 0, flags [DF], proto TCP (6), length 463)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xab37 (correct), seq 7:418, ack 1, win 46, options [nop,nop,TS val 3100734048 ecr 71662693], length 411: FTP, length: 411
+	220-  -- Welcome to Portal of Shanghai Jiao Tong University --
+	220-  -You are number 23 of 1200 allowed users.
+	220-  -Local time is Mon Feb 24 16:46:31 2014 now.
+	220-  -This is a private system - No anonymous login allowed
+	220-  -You will be disconnected after 15 minutes of inactivity.
+	220-  ---------------------------------------------------------
+	220 ProFTPD 1.3.2 Server (public_SJTU) [202.120.2.2]
+E....g@....;.x.....d......t.~X/......7.....
+..r`.E|e220-  -- Welcome to Portal of Shanghai Jiao Tong University --
+220-  -You are number 23 of 1200 allowed users.
+220-  -Local time is Mon Feb 24 16:46:31 2014 now.
+220-  -This is a private system - No anonymous login allowed
+220-  -You will be disconnected after 15 minutes of inactivity.
+220-  ---------------------------------------------------------
+220 ProFTPD 1.3.2 Server (public_SJTU) [202.120.2.2]
+
+04:46:32.406611 IP (tos 0x0, ttl 64, id 3401, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xfd04 (correct), seq 1, ack 418, win 8230, options [nop,nop,TS val 71662997 ecr 3100734048], length 0
+E..4.I@.@......d.x......~X/...vO.. &.......
+.E}...r`
+04:46:32.406830 IP (tos 0x0, ttl 64, id 42610, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x3d96 (correct), seq 101:107, ack 837, win 8204, options [nop,nop,TS val 71662997 ecr 3100734048], length 6: FTP, length: 6
+	PASV
+E..:.r@.@......d.x......(.....>C.. .=......
+.E}...r`PASV
+
+04:46:32.406895 IP (tos 0x0, ttl 64, id 61648, offset 0, flags [DF], proto TCP (6), length 70)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [P.], cksum 0x12b0 (correct), seq 1:19, ack 418, win 8230, options [nop,nop,TS val 71662997 ecr 3100734048], length 18: FTP, length: 18
+	USER shiningmoon
+E..F..@.@..Z...d.x......~X/...vO.. &.......
+.E}...r`USER shiningmoon
+
+04:46:32.816987 IP (tos 0x0, ttl 30, id 1128, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [.], cksum 0x1bbb (correct), seq 418, ack 19, win 46, options [nop,nop,TS val 3100734352 ecr 71662997], length 0
+E..4.h@......x.....d......vO~X/............
+..s..E}.
+04:46:32.817580 IP (tos 0x0, ttl 30, id 1129, offset 0, flags [DF], proto TCP (6), length 91)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xc9fb (correct), seq 418:457, ack 19, win 46, options [nop,nop,TS val 3100734354 ecr 71662997], length 39: FTP, length: 39
+	331 Password required for shiningmoon
+E..[.i@......x.....d......vO~X/............
+..s..E}.331 Password required for shiningmoon
+
+04:46:32.817649 IP (tos 0x0, ttl 64, id 13278, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xfa02 (correct), seq 19, ack 457, win 8228, options [nop,nop,TS val 71663406 ecr 3100734354], length 0
+E..43.@.@.y_...d.x......~X/...vv.. $.......
+.E....s.
+04:46:32.817761 IP (tos 0x0, ttl 30, id 5782, offset 0, flags [DF], proto TCP (6), length 102)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x9f2a (correct), seq 837:887, ack 107, win 46, options [nop,nop,TS val 3100734354 ecr 71662997], length 50: FTP, length: 50
+	227 Entering Passive Mode (202,120,2,2,195,122).
+E..f..@....u.x.....d......>C(........*.....
+..s..E}.227 Entering Passive Mode (202,120,2,2,195,122).
+
+04:46:32.817846 IP (tos 0x0, ttl 64, id 7063, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xeb45 (correct), seq 107, ack 887, win 8201, options [nop,nop,TS val 71663406 ecr 3100734354], length 0
+E..4..@.@......d.x......(.....>u.. 	.E.....
+.E....s.
+04:46:32.817865 IP (tos 0x0, ttl 64, id 38532, offset 0, flags [DF], proto TCP (6), length 65)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [P.], cksum 0xe70f (correct), seq 19:32, ack 457, win 8228, options [nop,nop,TS val 71663406 ecr 3100734354], length 13: FTP, length: 13
+	PASS public
+E..A..@.@......d.x......~X/...vv.. $.......
+.E....s.PASS public
+
+04:46:32.818798 IP (tos 0x0, ttl 64, id 8203, offset 0, flags [DF], proto TCP (6), length 67)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0xd716 (correct), seq 107:122, ack 887, win 8201, options [nop,nop,TS val 71663407 ecr 3100734354], length 15: FTP, length: 15
+	RETR ARP.java
+E..C .@.@..#...d.x......(.....>u.. 	.......
+.E./..s.RETR ARP.java
+
+04:46:33.226762 IP (tos 0x0, ttl 30, id 1130, offset 0, flags [DF], proto TCP (6), length 90)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xee73 (correct), seq 457:495, ack 32, win 46, options [nop,nop,TS val 3100734786 ecr 71663406], length 38: FTP, length: 38
+	230-  Quotas on: 17.71 MB/500.00 MB 
+E..Z.j@......x.....d......vv~X/......s.....
+..uB.E..230-  Quotas on: 17.71 MB/500.00 MB 
+
+04:46:33.226764 IP (tos 0x0, ttl 30, id 5783, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [.], cksum 0x094e (correct), seq 887, ack 122, win 46, options [nop,nop,TS val 3100734805 ecr 71663407], length 0
+E..4..@......x.....d......>u(.......	N.....
+..uU.E./
+04:46:33.226806 IP (tos 0x0, ttl 64, id 29893, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xf68a (correct), seq 32, ack 495, win 8226, options [nop,nop,TS val 71663813 ecr 3100734786], length 0
+E..4t.@.@.8x...d.x......~X/...v... ".......
+.E....uB
+04:46:33.635392 IP (tos 0x0, ttl 30, id 5784, offset 0, flags [DF], proto TCP (6), length 118)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0xab29 (correct), seq 887:953, ack 122, win 46, options [nop,nop,TS val 3100735169 ecr 71663407], length 66: FTP, length: 66
+	150 Opening ASCII mode data connection for ARP.java (2283 bytes)
+E..v..@....c.x.....d......>u(........).....
+..v..E./150 Opening ASCII mode data connection for ARP.java (2283 bytes)
+
+04:46:33.635522 IP (tos 0x0, ttl 30, id 1131, offset 0, flags [DF], proto TCP (6), length 84)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xe33e (correct), seq 495:527, ack 32, win 46, options [nop,nop,TS val 3100735172 ecr 71663813], length 32: FTP, length: 32
+	230 User shiningmoon logged in
+E..T.k@......x.....d......v.~X/......>.....
+..v..E..230 User shiningmoon logged in
+
+04:46:33.635541 IP (tos 0x0, ttl 64, id 26893, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xe49a (correct), seq 122, ack 953, win 8197, options [nop,nop,TS val 71664221 ecr 3100735169], length 0
+E..4i.@.@.D0...d.x......(.....>... ........
+.E.]..v.
+04:46:33.635610 IP (tos 0x0, ttl 64, id 26912, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xf352 (correct), seq 32, ack 527, win 8224, options [nop,nop,TS val 71664221 ecr 3100735172], length 0
+E..4i @.@.D....d.x......~X/...v...  .R.....
+.E.]..v.
+04:46:33.636978 IP (tos 0x0, ttl 64, id 3671, offset 0, flags [DF], proto TCP (6), length 65)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [P.], cksum 0x2581 (correct), seq 32:45, ack 527, win 8224, options [nop,nop,TS val 71664222 ecr 3100735172], length 13: FTP, length: 13
+	CWD /phase1
+E..A.W@.@......d.x......~X/...v...  %......
+.E.^..v.CWD /phase1
+
+04:46:34.044268 IP (tos 0x0, ttl 30, id 1132, offset 0, flags [DF], proto TCP (6), length 80)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0x5f14 (correct), seq 527:555, ack 45, win 46, options [nop,nop,TS val 3100735585 ecr 71664222], length 28: FTP, length: 28
+	250 CWD command successful
+E..P.l@......x.....d......v.~X/....._......
+..xa.E.^250 CWD command successful
+
+04:46:34.044384 IP (tos 0x0, ttl 64, id 55990, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xeff7 (correct), seq 45, ack 555, win 8222, options [nop,nop,TS val 71664628 ecr 3100735585], length 0
+E..4..@.@......d.x......~X/...v... ........
+.E....xa
+04:46:34.045065 IP (tos 0x0, ttl 64, id 27796, offset 0, flags [DF], proto TCP (6), length 60)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [P.], cksum 0x1dfe (correct), seq 45:53, ack 555, win 8222, options [nop,nop,TS val 71664628 ecr 3100735585], length 8: FTP, length: 8
+	TYPE A
+E..<l.@.@.@....d.x......~X/...v... ........
+.E....xaTYPE A
+
+04:46:34.053021 IP (tos 0x0, ttl 30, id 5785, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x367a (correct), seq 953:976, ack 122, win 46, options [nop,nop,TS val 3100735695 ecr 71664221], length 23: FTP, length: 23
+	226 Transfer complete
+E..K..@......x.....d......>.(.......6z.....
+..x..E.]226 Transfer complete
+
+04:46:34.053117 IP (tos 0x0, ttl 64, id 56292, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xe0d7 (correct), seq 122, ack 976, win 8196, options [nop,nop,TS val 71664636 ecr 3100735695], length 0
+E..4..@.@..X...d.x......(.....>... ........
+.E....x.
+04:46:34.453134 IP (tos 0x0, ttl 30, id 1133, offset 0, flags [DF], proto TCP (6), length 71)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0x8675 (correct), seq 555:574, ack 53, win 46, options [nop,nop,TS val 3100735992 ecr 71664628], length 19: FTP, length: 19
+	200 Type set to A
+E..G.m@......x.....d......v.~X/......u.....
+..y..E..200 Type set to A
+
+04:46:34.453218 IP (tos 0x0, ttl 64, id 64934, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xecae (correct), seq 53, ack 574, win 8221, options [nop,nop,TS val 71665036 ecr 3100735992], length 0
+E..4..@.@......d.x......~X/...v... ........
+.E....y.
+04:46:34.453335 IP (tos 0x0, ttl 64, id 25355, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [P.], cksum 0x3bff (correct), seq 53:59, ack 574, win 8221, options [nop,nop,TS val 71665036 ecr 3100735992], length 6: FTP, length: 6
+	PASV
+E..:c.@.@.J,...d.x......~X/...v... .;......
+.E....y.PASV
+
+04:46:34.862368 IP (tos 0x0, ttl 30, id 1134, offset 0, flags [DF], proto TCP (6), length 102)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xa03e (correct), seq 574:624, ack 59, win 46, options [nop,nop,TS val 3100736401 ecr 71665036], length 50: FTP, length: 50
+	227 Entering Passive Mode (202,120,2,2,151,234).
+E..f.n@......x.....d......v.~X/......>.....
+..{..E..227 Entering Passive Mode (202,120,2,2,151,234).
+
+04:46:34.862449 IP (tos 0x0, ttl 64, id 63758, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xe948 (correct), seq 59, ack 624, win 8218, options [nop,nop,TS val 71665444 ecr 3100736401], length 0
+E..4..@.@......d.x......~X/...w... ..H.....
+.E.$..{.
+04:46:34.864297 IP (tos 0x0, ttl 64, id 40236, offset 0, flags [DF], proto TCP (6), length 72)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [P.], cksum 0xae2c (correct), seq 59:79, ack 624, win 8218, options [nop,nop,TS val 71665445 ecr 3100736401], length 20: FTP, length: 20
+	RETR L2Switch.java
+E..H.,@.@......d.x......~X/...w... ..,.....
+.E.%..{.RETR L2Switch.java
+
+04:46:35.272859 IP (tos 0x0, ttl 30, id 1135, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [.], cksum 0x0760 (correct), seq 624, ack 79, win 46, options [nop,nop,TS val 3100736849 ecr 71665445], length 0
+E..4.o@......x.....d......w.~X0
+.....`.....
+..}Q.E.%
+04:46:35.680912 IP (tos 0x0, ttl 30, id 1136, offset 0, flags [DF], proto TCP (6), length 123)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0xb11d (correct), seq 624:695, ack 79, win 46, options [nop,nop,TS val 3100737215 ecr 71665445], length 71: FTP, length: 71
+	150 Opening ASCII mode data connection for L2Switch.java (3138 bytes)
+E..{.p@......x.....d......w.~X0
+...........
+..~..E.%150 Opening ASCII mode data connection for L2Switch.java (3138 bytes)
+
+04:46:35.680986 IP (tos 0x0, ttl 64, id 58072, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xe293 (correct), seq 79, ack 695, win 8213, options [nop,nop,TS val 71666261 ecr 3100737215], length 0
+E..4..@.@..d...d.x......~X0
+..wd.. ........
+.E.U..~.
+04:46:36.108728 IP (tos 0x0, ttl 30, id 1137, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [P.], cksum 0x3479 (correct), seq 695:718, ack 79, win 46, options [nop,nop,TS val 3100737751 ecr 71666261], length 23: FTP, length: 23
+	226 Transfer complete
+E..K.q@......x.....d......wd~X0
+....4y.....
+.....E.U226 Transfer complete
+
+04:46:36.108801 IP (tos 0x0, ttl 64, id 56496, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xdebd (correct), seq 79, ack 718, win 8212, options [nop,nop,TS val 71666685 ecr 3100737751], length 0
+E..4..@.@......d.x......~X0
+..w{.. ........
+.E......
+04:46:37.617048 IP (tos 0x0, ttl 64, id 32419, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x290a (correct), seq 98:104, ack 956, win 8197, options [nop,nop,TS val 71668188 ecr 3100728629], length 6: FTP, length: 6
+	CDUP
+E..:~.@.@......d.x........&..cJ... .)
+.....
+.E....]5CDUP
+
+04:46:38.032891 IP (tos 0x0, ttl 30, id 35295, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0xc3d3 (correct), seq 956, ack 104, win 46, options [nop,nop,TS val 3100739561 ecr 71668188], length 0
+E..4..@...E^.x.....d.....cJ...&............
+.....E..
+04:46:38.033325 IP (tos 0x0, ttl 30, id 35296, offset 0, flags [DF], proto TCP (6), length 81)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x13fc (correct), seq 956:985, ack 104, win 46, options [nop,nop,TS val 3100739561 ecr 71668188], length 29: FTP, length: 29
+	250 CDUP command successful
+E..Q..@...E@.x.....d.....cJ...&............
+.....E..250 CDUP command successful
+
+04:46:38.033396 IP (tos 0x0, ttl 64, id 10683, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xa242 (correct), seq 104, ack 985, win 8195, options [nop,nop,TS val 71668603 ecr 3100739561], length 0
+E..4).@.@......d.x........&..cK... ..B.....
+.E.{....
+04:46:38.033694 IP (tos 0x0, ttl 64, id 42059, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0x03d1 (correct), seq 104:109, ack 985, win 8195, options [nop,nop,TS val 71668603 ecr 3100739561], length 5: FTP, length: 5
+	PWD
+E..9.K@.@......d.x........&..cK... ........
+.E.{....PWD
+
+04:46:38.442961 IP (tos 0x0, ttl 30, id 35297, offset 0, flags [DF], proto TCP (6), length 86)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xc679 (correct), seq 985:1019, ack 109, win 46, options [nop,nop,TS val 3100739978 ecr 71668603], length 34: FTP, length: 34
+	257 "/" is the current directory
+E..V..@...E:.x.....d.....cK...&......y.....
+.....E.{257 "/" is the current directory
+
+04:46:38.443041 IP (tos 0x0, ttl 64, id 6681, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x9ee3 (correct), seq 109, ack 1019, win 8193, options [nop,nop,TS val 71669012 ecr 3100739978], length 0
+E..4..@.@..$...d.x........&..cK:.. ........
+.E......
+04:46:40.314852 IP (tos 0x0, ttl 64, id 19556, offset 0, flags [DF], proto TCP (6), length 63)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0xef31 (correct), seq 109:120, ack 1019, win 8193, options [nop,nop,TS val 71670883 ecr 3100739978], length 11: FTP, length: 11
+	CWD TeNet
+E..?Ld@.@.`....d.x........&..cK:.. ..1.....
+.E.c....CWD TeNet
+
+04:46:40.692663 IP (tos 0x0, ttl 30, id 35298, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0xae49 (correct), seq 1019, ack 120, win 46, options [nop,nop,TS val 3100742301 ecr 71670883], length 0
+E..4..@...E[.x.....d.....cK:..&......I.....
+.....E.c
+04:46:42.533139 IP (tos 0x0, ttl 30, id 35299, offset 0, flags [DF], proto TCP (6), length 80)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xf49e (correct), seq 1019:1047, ack 120, win 46, options [nop,nop,TS val 3100744130 ecr 71670883], length 28: FTP, length: 28
+	250 CWD command successful
+E..P..@...E>.x.....d.....cK:..&............
+.....E.c250 CWD command successful
+
+04:46:42.533212 IP (tos 0x0, ttl 64, id 60248, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x7e91 (correct), seq 120, ack 1047, win 8191, options [nop,nop,TS val 71673097 ecr 3100744130], length 0
+E..4.X@.@......d.x........&..cKV....~......
+.E.	....
+04:46:42.533454 IP (tos 0x0, ttl 64, id 33835, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0xe01e (correct), seq 120:125, ack 1047, win 8192, options [nop,nop,TS val 71673097 ecr 3100744130], length 5: FTP, length: 5
+	PWD
+E..9.+@.@.)....d.x........&..cKV.. ........
+.E.	....PWD
+
+04:46:42.942375 IP (tos 0x0, ttl 30, id 35300, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0x9cfe (correct), seq 1047, ack 125, win 46, options [nop,nop,TS val 3100744481 ecr 71673097], length 0
+E..4..@...EY.x.....d.....cKV..&............
+...!.E.	
+04:46:42.942458 IP (tos 0x0, ttl 30, id 35301, offset 0, flags [DF], proto TCP (6), length 91)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xb111 (correct), seq 1047:1086, ack 125, win 46, options [nop,nop,TS val 3100744481 ecr 71673097], length 39: FTP, length: 39
+	257 "/TeNet" is the current directory
+E..[..@...E1.x.....d.....cKV..&............
+...!.E.	257 "/TeNet" is the current directory
+
+04:46:42.942573 IP (tos 0x0, ttl 64, id 23078, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x7b70 (correct), seq 125, ack 1086, win 8189, options [nop,nop,TS val 71673505 ecr 3100744481], length 0
+E..4Z&@.@.S....d.x........&..cK}....{p.....
+.E.....!
+04:46:42.942869 IP (tos 0x0, ttl 64, id 22902, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0xcabd (correct), seq 125:131, ack 1086, win 8192, options [nop,nop,TS val 71673505 ecr 3100744481], length 6: FTP, length: 6
+	PASV
+E..:Yv@.@.S....d.x........&..cK}.. ........
+.E.....!PASV
+
+04:46:43.351658 IP (tos 0x0, ttl 30, id 35302, offset 0, flags [DF], proto TCP (6), length 101)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0x2a11 (correct), seq 1086:1135, ack 131, win 46, options [nop,nop,TS val 3100744897 ecr 71673505], length 49: FTP, length: 49
+	227 Entering Passive Mode (202,120,2,2,230,18).
+E..e..@...E&.x.....d.....cK}..&.....*......
+.....E..227 Entering Passive Mode (202,120,2,2,230,18).
+
+04:46:43.351736 IP (tos 0x0, ttl 64, id 50068, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x7802 (correct), seq 131, ack 1135, win 8188, options [nop,nop,TS val 71673913 ecr 3100744897], length 0
+E..4..@.@......d.x........&..cK.....x......
+.E.9....
+04:46:43.352891 IP (tos 0x0, ttl 64, id 25287, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [P.], cksum 0xcb47 (correct), seq 131:137, ack 1135, win 8192, options [nop,nop,TS val 71673914 ecr 3100744897], length 6: FTP, length: 6
+	LIST
+E..:b.@.@.Jp...d.x........&..cK... ..G.....
+.E.:....LIST
+
+04:46:43.760725 IP (tos 0x0, ttl 30, id 35303, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [.], cksum 0x960c (correct), seq 1135, ack 137, win 46, options [nop,nop,TS val 3100745342 ecr 71673914], length 0
+E..4..@...EV.x.....d.....cK...&............
+...~.E.:
+04:46:44.169417 IP (tos 0x0, ttl 30, id 35304, offset 0, flags [DF], proto TCP (6), length 106)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xa448 (correct), seq 1135:1189, ack 137, win 46, options [nop,nop,TS val 3100745706 ecr 71673914], length 54: FTP, length: 54
+	150 Opening ASCII mode data connection for file list
+E..j..@...E..x.....d.....cK...&......H.....
+.....E.:150 Opening ASCII mode data connection for file list
+
+04:46:44.169490 IP (tos 0x0, ttl 64, id 1935, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x716e (correct), seq 137, ack 1189, win 8188, options [nop,nop,TS val 71674728 ecr 3100745706], length 0
+E..4..@.@......d.x........&..cK.....qn.....
+.E.h....
+04:46:45.499161 IP (tos 0x0, ttl 30, id 35305, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [P.], cksum 0xc01c (correct), seq 1189:1212, ack 137, win 46, options [nop,nop,TS val 3100747040 ecr 71674728], length 23: FTP, length: 23
+	226 Transfer complete
+E..K..@...E=.x.....d.....cK...&............
+... .E.h226 Transfer complete
+
+04:46:45.499220 IP (tos 0x0, ttl 64, id 11281, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0x66f0 (correct), seq 137, ack 1212, win 8190, options [nop,nop,TS val 71676055 ecr 3100747040], length 0
+E..4,.@.@..,...d.x........&..cK.....f......
+.E..... 
+04:46:51.044698 IP (tos 0x0, ttl 64, id 26310, offset 0, flags [DF], proto TCP (6), length 64)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x0fec (correct), seq 122:134, ack 976, win 8196, options [nop,nop,TS val 71681595 ecr 3100735695], length 12: FTP, length: 12
+	CWD /TeNet
+E..@f.@.@.Fk...d.x......(.....>... ........
+.E.;..x.CWD /TeNet
+
+04:46:51.431300 IP (tos 0x0, ttl 30, id 5786, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [.], cksum 0x7ad1 (correct), seq 976, ack 134, win 46, options [nop,nop,TS val 3100752992 ecr 71681595], length 0
+E..4..@......x.....d......>.(.......z......
+...`.E.;
+04:46:51.431545 IP (tos 0x0, ttl 30, id 5787, offset 0, flags [DF], proto TCP (6), length 80)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0xc849 (correct), seq 976:1004, ack 134, win 46, options [nop,nop,TS val 3100752994 ecr 71681595], length 28: FTP, length: 28
+	250 CWD command successful
+E..P..@......x.....d......>.(........I.....
+...b.E.;250 CWD command successful
+
+04:46:51.431612 IP (tos 0x0, ttl 64, id 15285, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x595f (correct), seq 134, ack 1004, win 8194, options [nop,nop,TS val 71681979 ecr 3100752994], length 0
+E..4;.@.@.q....d.x......(.....>... .Y_.....
+.E.....b
+04:46:51.431834 IP (tos 0x0, ttl 64, id 9938, offset 0, flags [DF], proto TCP (6), length 57)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0xbaed (correct), seq 134:139, ack 1004, win 8194, options [nop,nop,TS val 71681979 ecr 3100752994], length 5: FTP, length: 5
+	PWD
+E..9&.@.@..f...d.x......(.....>... ........
+.E.....bPWD
+
+04:46:51.839980 IP (tos 0x0, ttl 30, id 5788, offset 0, flags [DF], proto TCP (6), length 91)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x8bc0 (correct), seq 1004:1043, ack 139, win 46, options [nop,nop,TS val 3100753379 ecr 71681979], length 39: FTP, length: 39
+	257 "/TeNet" is the current directory
+E..[..@....z.x.....d......>.(..............
+.....E..257 "/TeNet" is the current directory
+
+04:46:51.840075 IP (tos 0x0, ttl 64, id 35891, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x561e (correct), seq 139, ack 1043, win 8191, options [nop,nop,TS val 71682386 ecr 3100753379], length 0
+E..4.3@.@.!
+...d.x......(.....?.....V......
+.E.R....
+04:46:51.840754 IP (tos 0x0, ttl 64, id 35744, offset 0, flags [DF], proto TCP (6), length 58)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0xa56d (correct), seq 139:145, ack 1043, win 8192, options [nop,nop,TS val 71682386 ecr 3100753379], length 6: FTP, length: 6
+	PASV
+E..:..@.@.!....d.x......(.....?... ..m.....
+.E.R....PASV
+
+04:46:52.249478 IP (tos 0x0, ttl 30, id 5789, offset 0, flags [DF], proto TCP (6), length 102)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x0783 (correct), seq 1043:1093, ack 145, win 46, options [nop,nop,TS val 3100753790 ecr 71682386], length 50: FTP, length: 50
+	227 Entering Passive Mode (202,120,2,2,158,159).
+E..f..@....n.x.....d......?.(..............
+...~.E.R227 Entering Passive Mode (202,120,2,2,158,159).
+
+04:46:52.249626 IP (tos 0x0, ttl 64, id 8711, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x52b5 (correct), seq 145, ack 1093, win 8188, options [nop,nop,TS val 71682795 ecr 3100753790], length 0
+E..4".@.@..6...d.x......(.....?C....R......
+.E.....~
+04:46:52.250556 IP (tos 0x0, ttl 64, id 31134, offset 0, flags [DF], proto TCP (6), length 70)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [P.], cksum 0x9baf (correct), seq 145:163, ack 1093, win 8192, options [nop,nop,TS val 71682795 ecr 3100753790], length 18: FTP, length: 18
+	RETR phase1.html
+E..Fy.@.@.3....d.x......(.....?C.. ........
+.E.....~RETR phase1.html
+
+04:46:52.658829 IP (tos 0x0, ttl 30, id 5790, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [.], cksum 0x70b1 (correct), seq 1093, ack 163, win 46, options [nop,nop,TS val 3100754238 ecr 71682795], length 0
+E..4..@......x.....d......?C(.......p......
+...>.E..
+04:46:53.065333 IP (tos 0x0, ttl 30, id 5791, offset 0, flags [DF], proto TCP (6), length 121)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x9d8a (correct), seq 1093:1162, ack 163, win 46, options [nop,nop,TS val 3100754603 ecr 71682795], length 69: FTP, length: 69
+	150 Opening ASCII mode data connection for phase1.html (5622 bytes)
+E..y..@....Y.x.....d......?C(..............
+.....E..150 Opening ASCII mode data connection for phase1.html (5622 bytes)
+
+04:46:53.065406 IP (tos 0x0, ttl 64, id 61620, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x4c04 (correct), seq 163, ack 1162, win 8187, options [nop,nop,TS val 71683609 ecr 3100754603], length 0
+E..4..@.@......d.x......(.....?.....L......
+.E......
+04:46:53.487120 IP (tos 0x0, ttl 30, id 5792, offset 0, flags [DF], proto TCP (6), length 75)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [P.], cksum 0x9dd8 (correct), seq 1162:1185, ack 163, win 46, options [nop,nop,TS val 3100755130 ecr 71683609], length 23: FTP, length: 23
+	226 Transfer complete
+E..K..@......x.....d......?.(..............
+.....E..226 Transfer complete
+
+04:46:53.487248 IP (tos 0x0, ttl 64, id 53159, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0x4838 (correct), seq 163, ack 1185, win 8190, options [nop,nop,TS val 71684028 ecr 3100755130], length 0
+E..4..@.@......d.x......(.....?.....H8.....
+.E......
+04:47:09.052783 IP (tos 0x0, ttl 64, id 10320, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [F.], cksum 0x0b00 (correct), seq 137, ack 1212, win 8192, options [nop,nop,TS val 71699588 ecr 3100747040], length 0
+E..4(P@.@......d.x........&..cK... ........
+.F..... 
+04:47:09.431160 IP (tos 0x0, ttl 30, id 35306, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58757: Flags [F.], cksum 0xcd35 (correct), seq 1212, ack 138, win 46, options [nop,nop,TS val 3100771003 ecr 71699588], length 0
+E..4..@...ES.x.....d.....cK...&......5.....
+.....F..
+04:47:09.431240 IP (tos 0x0, ttl 64, id 63269, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58757 > 202.120.2.2.21: Flags [.], cksum 0xabe9 (correct), seq 138, ack 1213, win 8192, options [nop,nop,TS val 71699966 ecr 3100771003], length 0
+E..4.%@.@......d.x........&..cK... ........
+.F......
+04:47:14.335985 IP (tos 0x0, ttl 64, id 45477, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [F.], cksum 0xf6d0 (correct), seq 163, ack 1185, win 8192, options [nop,nop,TS val 71704864 ecr 3100755130], length 0
+E..4..@.@......d.x......(.....?... ........
+.F! ....
+04:47:14.336330 IP (tos 0x0, ttl 64, id 20393, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [F.], cksum 0x4999 (correct), seq 79, ack 718, win 8212, options [nop,nop,TS val 71704864 ecr 3100737751], length 0
+E..4O.@.@.]....d.x......~X0
+..w{.. .I......
+.F! ....
+04:47:14.749614 IP (tos 0x0, ttl 30, id 5793, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58759: Flags [F.], cksum 0xc3fa (correct), seq 1185, ack 164, win 46, options [nop,nop,TS val 3100776289 ecr 71704864], length 0
+E..4..@......x.....d......?.(..............
+...a.F! 
+04:47:14.749678 IP (tos 0x0, ttl 64, id 45837, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58759 > 202.120.2.2.21: Flags [.], cksum 0xa28d (correct), seq 164, ack 1186, win 8192, options [nop,nop,TS val 71705275 ecr 3100776289], length 0
+E..4..@.@../...d.x......(.....?... ........
+.F"....a
+04:47:14.749763 IP (tos 0x0, ttl 30, id 1138, offset 0, flags [DF], proto TCP (6), length 52)
+    202.120.2.2.21 > 192.168.0.100.58762: Flags [F.], cksum 0xd2f0 (correct), seq 718, ack 80, win 46, options [nop,nop,TS val 3100776292 ecr 71704864], length 0
+E..4.r@......x.....d......w{~X0............
+...d.F! 
+04:47:14.749807 IP (tos 0x0, ttl 64, id 34143, offset 0, flags [DF], proto TCP (6), length 52)
+    192.168.0.100.58762 > 202.120.2.2.21: Flags [.], cksum 0xb16f (correct), seq 80, ack 719, win 8212, options [nop,nop,TS val 71705275 ecr 3100776292], length 0
+E..4._@.@.'....d.x......~X0...w|.. ..o.....
+.F"....d
