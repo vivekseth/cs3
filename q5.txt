@@ -3,8 +3,14 @@ q5
 An XSS attack can be used to steal cookies by having the browser make an HTTP request to a remote URL that includes `document.cookie` in the query string. One way an attacker could do this is by setting the src of an image tag to this special URL. 
 
 - b 
-how to steal passwords: ???
-how to prevent? use session tokens, grant permission to user for 
+how to steal passwords: 
+An attacker could have a user visit a malicious site in which there is an invisible iframe pointing to a bank signin page. The browser would auto fill in the users credentials which the site would be able to read using javascript. Modern browsers do not allow javascript to run inside of iframes that source a domain different from the page domain. An attacker might be able to get aroumd this by loading the sign in page through a URL located on his site. A faulty browser auto complete implementation would fill in the user name and password which the attacker would be able to access using javascript. 
+
+how to prevent? 
+Have server generate random nonce in each form for authenticated users. The server will only complete form request if nonce matches the one given. In XSRF attack, attacker will be able to send an authenticated users's cookies, but not generate a valid nonce.
+
+
+Anyone with this token, is allowed the rights of the user to whom it was given, but only for the request.
 
 - c
 XSRF is an example of a confused deputy attack because it uses the trust the browser has in a user, and the site it renders to make malicious HTTP requests. 
@@ -14,3 +20,8 @@ The browser is the confused deputy.
 The browser acts on behalf of both the user and the site which it renders. 
 
 - d
+The request token acts as a representation of a capability. Anyone with this token, is allowed the rights of the user to whom it was given, but only for the request. 
+
+- e
+setuid programs in UNIX are examples of confused deputies because they trust the user executing the program and the privileges of the user that setuid sets. 
+

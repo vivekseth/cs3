@@ -1,0 +1,25 @@
+- a
+MITM during key exchange. 
+Client validates Server's public key certificate up to the root CA. Attacker cannot pose as root CA using mitm attack, because public key is stored in browser. If a root CA does not certify the certificate as valid, the client does not continue handshake. 
+
+If say a MITM attacker waited until after the server had sent its 
+
+- b
+Password Sniffing
+All data sent between client and server is encrypted with a common agreed upon secret key. This key is infeasible to brute force, so an attacker would not be able to view any of the data sent between a client and a server.
+
+- c
+An SSL certificate is bound to a specific domain. If an attacker attempted to redirect a user to a malicious site using IP Spoofing, that site would have a SSL certificate that would not match the intended site.
+
+- d
+If an attacker took the place of one of the hosts after an authenticated connection had been established, he would not be able to read any of the data because it would be encrypted. 
+
+- e
+Using SYN Cookies, a server reduces risk of SYN flood attacks. SYN cookies allow a server to defer storing a SYN entry for a client until it recieves a valid SYN+ACK response at which point it recontructs the value from the packet. The server encrypts the value of the SYN cookie so that a client cannot have fake packets validated. 
+
+- f
+Replay attacks are not possible because both client and server send a random nonce to each other only valid for the session. 
+
+- g
+SSL uses a key length of 128 bits which make a knows plain text attack infeasible. 
+
